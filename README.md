@@ -56,10 +56,7 @@ I transform raw data into actionable insights. I thrive on cleaning complex data
 ### 📈 Daily Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannasavalla&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-### 🔥 My Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasannasavalla&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/prasannasavalla" alt="Contribution Calendar" width="100%"/>
