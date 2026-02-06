@@ -40,13 +40,58 @@ I transform raw data into actionable insights. I thrive on cleaning complex data
 - Work with **relational & NoSQL databases** including MySQL, PostgreSQL, SQL Server, MongoDB  
 
 ---
+### 🌟 Fun Fact
+> “I see stories hidden in numbers and trends in chaos.”
+## 📊 GitHub Contributions & Analytics
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmiprasannasavalla/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannasavalla56@gmail.com)
+### 📈 Daily Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannasavalla&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+### 🔥 My Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanansavalla&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/prasannasavalla" alt="Contribution Calendar" width="100%"/>
+
+
+## 🌐 Let's Connect & Collaborate
+
+I'm always open to new opportunities, collaborations, and learning experiences. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmiprasannasavalla/) <!-- TODO: Add your LinkedIn profile URL -->
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasannasavalla56@gmail.com) <!-- TODO: prasannasavalla56@gmail.com -->
+
+
+</div>
 
 ---
 
-### 🌟 Fun Fact
-> “I see stories hidden in numbers and trends in chaos.”  
+## ☕ Support My Work
+
+If you found my projects helpful or learned something from my code, consider supporting my work:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/prasannasavalla) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
+
+</div>
+
+<div align="center">
+  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasannasavalla&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
+  ### 🚀 "Code is poetry, and every commit tells a story"
+
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
 
