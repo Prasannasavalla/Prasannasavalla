@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi there, I'm [Your Name]! 👋
+
+# Hi there, I'm Laxmiprasanna! 👋
 ### 🧠 Aspiring AI & Machine Learning Engineer
 
 I am a passionate and forward-thinking developer dedicated to building intelligent systems that solve real-world problems. My core focus lies at the intersection of data engineering, predictive modeling, and deploying scalable AI solutions. I thrive on turning complex datasets into actionable insights and robust automation.
@@ -53,4 +53,4 @@ I am a passionate and forward-thinking developer dedicated to building intellige
 I am actively seeking full-time opportunities, research collaborations, or internships as an **AI / ML Engineer**. If you want to discuss algorithmic optimizations, data pipelines, or cool computer vision tech, feel free to reach out!
 
 * 📧 **Email:** [prasannasavalla56@gmail.com](mailto:prasannasavalla56@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/](https://linkedin.com/in/yourprofile)
+* 💼 **LinkedIn:** [linkedin.com/in/laxmiprasannasavalla](https://linkedin.com/in/laxmiprasannasavalla)
