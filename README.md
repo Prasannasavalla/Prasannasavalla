@@ -1,20 +1,14 @@
 
-# Hi there, I'm Laxmiprasanna! 👋
-### Aspiring AI & Machine Learning Engineer
-
+# Hi, I'm Laxmiprasanna! 👋
+### Aspiring AI & Machine Learning Engineer 
 I am a passionate and forward-thinking developer dedicated to building intelligent systems that solve real-world problems. My core focus lies at the intersection of data engineering, predictive modeling, and deploying scalable AI solutions. I thrive on turning complex datasets into actionable insights and robust automation.
-
 -  **Current Focus:** Advanced computer vision, multi-sensor data fusion, and deep learning optimization.
 -  **Fun Fact:** I love decomposing complex physical systems into algorithms and simple mathematical models!
-
----
 ## Technical Skills
-
 * **Core Languages:** Python, C++, SQL
 * **AI & Machine Learning Frameworks:** PyTorch, TensorFlow, Scikit-Learn, Keras
 * **Computer Vision & NLP:** OpenCV, Ultralytics YOLO, Hugging Face Transformers
 * **Data & MLOps Infrastructure:** NumPy, Pandas, Docker, Git, Linux
----
 
 ## Highlighted AI/ML Projects
 
@@ -33,12 +27,9 @@ I am a passionate and forward-thinking developer dedicated to building intellige
 * **Tech Stack:** Pandas, Scikit-Learn, Optuna, Matplotlib.
 * 📂 [View Repository](https://github.com/Prasannasavalla/predictive-analytics)
 
----
-
 ## GitHub Analytics
 
 <p align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
