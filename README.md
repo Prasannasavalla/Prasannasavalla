@@ -44,6 +44,18 @@ I am a passionate and forward-thinking developer dedicated to building intellige
 </p>
 
 ---
+---
+
+## 📊 Technical Contributions & Activity
+
+::: For a dynamic, real-time look at my production code, explore my pinned repositories below. :::
+
+* 💻 **Active Contributor:** Check out my green contribution graph below for my daily coding frequency, architecture updates, and algorithm implementations.
+* 🚀 **Open Source & Projects:** I actively maintain codebase version control, structured commits, and clear documentation.
+
+<!-- Note: Your native GitHub Contribution Calendar grid automatically displays right beneath this README section on your profile page! -->
+
+---
 
 ## 🤝 Let's Connect!
 
