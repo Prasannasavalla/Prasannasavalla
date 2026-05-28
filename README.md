@@ -39,21 +39,9 @@ I am a passionate and forward-thinking developer dedicated to building intellige
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasannasavalla&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
-
----
----
-
-## 📊 Technical Contributions & Activity
-
-::: For a dynamic, real-time look at my production code, explore my pinned repositories below. :::
-
-* 💻 **Active Contributor:** Check out my green contribution graph below for my daily coding frequency, architecture updates, and algorithm implementations.
-* 🚀 **Open Source & Projects:** I actively maintain codebase version control, structured commits, and clear documentation.
-
-<!-- Note: Your native GitHub Contribution Calendar grid automatically displays right beneath this README section on your profile page! -->
 
 ---
 
