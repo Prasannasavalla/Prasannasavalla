@@ -30,17 +30,7 @@ I enjoy transforming complex data into scalable AI solutions and building produc
 ---
 ## 🛠️ Technical Skills
 
-<div align="center">
-
-<img align="top" width="45%" src="https://img.shields.io/badge/Skills-AI%20%26%20Machine%20Learning-blue?style=for-the-badge"/>
-
 **Machine Learning** • Regression • Classification • Clustering • Deep Learning • Neural Networks • TensorFlow • PyTorch • Generative AI • Prompt Engineering • LLM Fundamentals
-
-</div>
-
-<br>
-
-<div align="center">
 
 **Programming:** Python • SQL • Java
 
