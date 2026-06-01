@@ -28,19 +28,14 @@ My expertise spans:
 I enjoy transforming complex data into scalable AI solutions and building products that create measurable impact.
 
 ---
-## 🛠️ Technical Skills
-
-**Machine Learning** • Regression • Classification • Clustering • Deep Learning • Neural Networks • TensorFlow • PyTorch • Generative AI • Prompt Engineering • LLM Fundamentals
-
-**Programming:** Python • SQL • Java
-
-**Data Analysis:** Pandas • NumPy • Matplotlib • Seaborn
-
-**Databases:** MySQL • PostgreSQL
-
-**Tools:** Git • GitHub • Jupyter Notebook • VS Code
-
-**Currently Learning:** RAG • AI Agents • MLOps
+## Technical Skills
+* **Programming Languages:** Python, SQL, Java
+* **Machine Learning:** Regression, Classification, Clustering, Model Evaluation
+* **Deep Learning:** Neural Networks, TensorFlow, PyTorch
+* **Frameworks & Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+* **Generative AI:** Prompt Engineering, LLM Fundamentals, OpenAI API Basics
+* **Databases:** MySQL, PostgreSQL
+* **Tools:** Git, GitHub, Jupyter Notebook, VS Code
 
 </div>
 
