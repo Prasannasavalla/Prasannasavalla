@@ -15,7 +15,7 @@
 
 I'm an **AI & Machine Learning Engineer** passionate about designing intelligent systems that solve real-world problems.
 
-My expertise spans:
+Focused On:
 
 -  Machine Learning & Deep Learning
 -  Large Language Models (LLMs)
