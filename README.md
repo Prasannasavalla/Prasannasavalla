@@ -2,10 +2,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Laxmiprasanna Savalla
-
 ### AI & Machine Learning Engineer | Generative AI Enthusiast | Data-Driven Problem Solver
-
-
 </div>
 
 ---
