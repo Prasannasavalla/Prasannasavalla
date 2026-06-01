@@ -5,7 +5,6 @@
 
 ### AI & Machine Learning Engineer | Generative AI Enthusiast | Data-Driven Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=Building+Intelligent+Systems;Machine+Learning+Engineer;Generative+AI+Developer;Deep+Learning+Researcher;Turning+Data+Into+Innovation" alt="Typing SVG" />
 
 </div>
 
